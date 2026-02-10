@@ -26,31 +26,44 @@ Design database tables for Books, Members, Transactions, and Staff.
 # UML DIAGRAMS:
 
 ## USECASE DIAGRAM:
+<img width="1207" height="993" alt="Screenshot 2026-02-10 142700" src="https://github.com/user-attachments/assets/72be10a1-a421-47d3-81d1-9c102048564d" />
 
 
 
 
 ## CLASS DIAGRAM:
-
-
-
-
-## COMMUNICATION DIAGRAM:
-
-
-
-
-## ACTIVITY DIAGRAM:
+<img width="1190" height="866" alt="Screenshot 2026-02-10 142730" src="https://github.com/user-attachments/assets/9b7ce81e-a1c6-419c-b4bb-544bd45b7aea" />
 
 
 
 
 ## SEQUENCE DIAGRAM:
+<img width="924" height="802" alt="Screenshot 2026-02-10 142843" src="https://github.com/user-attachments/assets/352ffe59-85d4-496b-aa3f-9c78cccb8b40" />
+
+
+
+
+
+## COMMUNICATION DIAGRAM:
+<img width="1224" height="954" alt="Screenshot 2026-02-10 142912" src="https://github.com/user-attachments/assets/9dfe76ae-82b9-431a-9dda-bf099241f04c" />
+
+
+
+
+
+## ACTIVITY DIAGRAM:
+<img width="647" height="783" alt="Screenshot 2026-02-10 143209" src="https://github.com/user-attachments/assets/f634a9d0-1b2f-4174-92af-23a9c61036d5" />
 
 
 
 
 ## PACKAGE DIAGRAM:
+<img width="965" height="808" alt="Screenshot 2026-02-10 143246" src="https://github.com/user-attachments/assets/dd9700fd-29a7-4476-a2e3-9e838b5b2c43" />
+
+
+
+
+
 
 
 
