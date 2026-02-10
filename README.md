@@ -26,7 +26,8 @@ Design database tables for Books, Members, Transactions, and Staff.
 # UML DIAGRAMS:
 
 ## USECASE DIAGRAM:
-<img width="1207" height="993" alt="Screenshot 2026-02-10 142700" src="https://github.com/user-attachments/assets/72be10a1-a421-47d3-81d1-9c102048564d" />
+<img width="1225" height="1034" alt="Screenshot 2026-02-10 143347" src="https://github.com/user-attachments/assets/3ce4c326-6900-4674-81ba-d614135d428d" />
+
 
 
 
